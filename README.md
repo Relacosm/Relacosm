@@ -9,6 +9,6 @@
 
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Relacosm&layout=compact&theme=radical)
 
-- ![Your Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=Relacosm&theme=radical)
+- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Relacosm&theme=radical&row=1&column=3&margin-w=15&margin-h=15)
 
-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Relacosm&theme=radical)
+- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Relacosm&theme=dark)
