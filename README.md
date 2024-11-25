@@ -5,17 +5,10 @@
 - 📫 Contact me at scrollnet5555@gmail.com
 - 😄 Pronouns: he/him
 
-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Relacosm&show_icons=true&hide_title=true&theme=radical&hide=prs)
-  
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Relacosm&layout=compact&theme=radical&hide=html)
-  
-- ![Your Contributions](https://github.com/Relacosm/github-calendar/blob/master/docs/images/heatmap.png)
-  
-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Relacosm&theme=radical&hide_border=true)
+- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Relacosm&show_icons=true&hide_title=true&theme=radical)
 
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Relacosm&layout=compact&theme=radical)
 
+- ![Your Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=Relacosm&theme=radical)
 
-<!---
-Relacosm/Relacosm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Relacosm&theme=radical)
