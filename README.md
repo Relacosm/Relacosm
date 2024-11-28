@@ -14,11 +14,6 @@
 
 ---
 
-### 📈 LeetCode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=Relacosm&theme=dark)
-
----
-
 ### 🏆 Achievements
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Relacosm&theme=radical&row=1&column=3&margin-w=15&margin-h=15)
 
