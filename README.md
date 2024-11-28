@@ -13,4 +13,9 @@
 
 - ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Relacosm&theme=dark)
 
-- ![LeetCode Stats](https://leetcode.card.workers.dev/?username=Relacosm)
+- ![LeetCode Stats](https://leetcode.card.workers.dev/?username=Relacosm&theme=dark) <!-- Replace with your actual LeetCode username -->
+
+### LeetCode Badges
+![LeetCode Stats](https://img.shields.io/badge/LeetCode-Relacosm-ffcc29?style=flat&logo=leetcode&logoColor=black)
+![Problems Solved](https://img.shields.io/badge/Solved%20Problems-70-blue) <!-- Replace with your actual solved problems count -->
+![Rank](https://img.shields.io/badge/Rank-1,356,261-brightgreen)
