@@ -34,11 +34,6 @@
 
 ---
 
-### 📜 Inspirational Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ### 🛠️ Tools & Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -50,7 +45,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+### LeetCode Badges
 
-### 🌍 Explore My 3D GitHub Skyline
-[View My 3D GitHub Skyline](https://skyline.github.com/Relacosm)...is this pretty cool 
+![LeetCode Achievements](https://github.com/Relacosm/Relacosm/blob/main/2024-50.gif)
+
+### LeetCode Badges
+
+![LeetCode Achievements](https://github.com/Relacosm/Relacosm/blob/main/2024-09.gif)
