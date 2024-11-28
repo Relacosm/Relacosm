@@ -44,6 +44,4 @@
 
 ![LeetCode Achievements](https://github.com/Relacosm/Relacosm/blob/main/2024-50.gif)
 
-### LeetCode Badges
-
 ![LeetCode Achievements](https://github.com/Relacosm/Relacosm/blob/main/2024-09.gif)
