@@ -14,11 +14,6 @@
 
 ---
 
-### 🔥 Streaks
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Relacosm&theme=dark)
-
----
-
 ### 📈 LeetCode Stats
 ![LeetCode Stats](https://leetcode.card.workers.dev/?username=Relacosm&theme=dark)
 
