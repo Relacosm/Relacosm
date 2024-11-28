@@ -15,3 +15,7 @@
 
 - ![LeetCode Stats](https://leetcode.card.workers.dev/?username=Relacosm&theme=dark) <!-- Replace with your actual LeetCode username -->
 
+- ![LeetCode Achievements](https://github.com/Relacosm/Relacosm/blob/main/2024-50.gif)
+
+- ![LeetCode Achievements](https://github.com/Relacosm/Relacosm/blob/main/2024-09.gif)
+
