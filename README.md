@@ -9,13 +9,13 @@
 ---
 
 ### 🌟 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Relacosm&show_icons=true&hide_title=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide_title=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Relacosm&layout=compact&theme=radical)
 
 ---
 
 ### 🏆 Achievements
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Relacosm&theme=radical&row=1&column=3&margin-w=15&margin-h=15)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=&theme=radical&row=1&column=3&margin-w=15&margin-h=15)
 
 ---
 
