@@ -10,7 +10,7 @@
 
 ### 🌟 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide_title=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Relacosm&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical)
 
 ---
 
