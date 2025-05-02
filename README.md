@@ -40,7 +40,9 @@
 
 ### Other Badges
 
-<img width="350" src="https://github.com/Relacosm/Relacosm/blob/main/github-foundations.png" />
-<img width="325" src="https://github.com/Relacosm/Relacosm/blob/main/networking-basics.png" />
+<div align="center">
+  <img width="350" src="https://github.com/Relacosm/Relacosm/blob/main/github-foundations.png" />
+  <img width="350" src="https://github.com/Relacosm/Relacosm/blob/main/networking-basics.png" />
+</div>
 
 
