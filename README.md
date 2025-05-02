@@ -41,6 +41,7 @@
 ### Other Badges
 
 ![GitHub Foundations](https://github.com/Relacosm/Relacosm/blob/main/github-foundations.png)
+
 ![Networking Basics](https://github.com/Relacosm/Relacosm/blob/main/networking-basics.png)
 
 
