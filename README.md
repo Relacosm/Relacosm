@@ -38,3 +38,9 @@
 
 ![LeetCode Achievements](https://github.com/Relacosm/Relacosm/blob/main/2024-09.gif)
 
+### Other Badges
+
+![GitHub Foundations](https://github.com/Relacosm/Relacosm/blob/main/github-foundations.png)
+![Networking Basics](https://github.com/Relacosm/Relacosm/blob/main/networking-basics.png)
+
+
