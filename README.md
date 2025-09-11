@@ -3,7 +3,8 @@
 - 👀 I’m passionate about **AI, Web Development**, and **Tech Innovations**
 - 🌱 Currently learning **Web Development** and **Data Structures & Algorithms**
 - 💞️ Open to collaborating on **exciting tech projects**
-- 📫 Reach me at: **scrollnet5555@gmail.com**
+- 📫 Reach me at: **relacosm@gmail.com**
+- - 🌐 Check out my personal website: [relacosm.tech](https://relacosm.tech)
 - 😄 Pronouns: **he/him**
 
 <br/>
