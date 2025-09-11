@@ -4,7 +4,7 @@
 - 🌱 Currently learning **Web Development** and **Data Structures & Algorithms**
 - 💞️ Open to collaborating on **exciting tech projects**
 - 📫 Reach me at: **relacosm@gmail.com**
-- - 🌐 Check out my personal website: [relacosm.tech](https://relacosm.tech)
+- 🌐 Check out my personal website: [relacosm.tech](https://relacosm.tech)
 - 😄 Pronouns: **he/him**
 
 <br/>
