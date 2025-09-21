@@ -43,5 +43,8 @@
 
 <img width="250" src="https://github.com/Relacosm/Relacosm/blob/main/github-foundations.png" />
 <img width="250" src="https://github.com/Relacosm/Relacosm/blob/main/networking-basics.png" />
+<img width="250" src="https://github.com/Relacosm/Relacosm/blob/main/statement-of-accomplishment.png" />
+<img width="250" src="https://github.com/Relacosm/Relacosm/blob/main/statement-of-accomplishment(1).png" />
+<img width="250" src="https://github.com/Relacosm/Relacosm/blob/main/statement-of-accomplishment(2).png" />
 
 
