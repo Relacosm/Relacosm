@@ -9,7 +9,7 @@
 ```javascript
 const relacosm = {
     pronouns: "he/him",
-    passions: ["Machine Learning", "AI", "Data Science"],
+    passions: ["Machine Learning", "AI", "Data Science", "Development"],
     foundations: ["Web Development", "ML Algorithms"],
     currentFocus: ["Data Structures & Algorithms", "Advanced ML Techniques"],
     achievements: ["2x Hackathon Winner 🏆"],
