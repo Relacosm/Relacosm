@@ -40,7 +40,7 @@ const relacosm = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Relacosm&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Relacosm&count_private=true&theme=react&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ## 🛠️ Tech Arsenal
