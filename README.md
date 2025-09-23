@@ -1,26 +1,22 @@
 ### 🚀 Welcome to My GitHub!
 - 👋 Hi, I’m **@Relacosm**
-- 👀 I’m passionate about **AI, Web Development**, and **Tech Innovations**
+- 👀 Passionate about **AI, Web Development**, and **Tech Innovations**
 - 🌱 Currently learning **Web Development** and **Data Structures & Algorithms**
+- 🏆 **2× Hackathon Winner**
 - 💞️ Open to collaborating on **exciting tech projects**
 - 📫 Reach me at: **relacosm@gmail.com**
-- 🌐 Check out my personal website: [relacosm.tech](https://relacosm.tech)
+- 🌐 Personal website: [relacosm.tech](https://relacosm.tech)
 - 😄 Pronouns: **he/him**
 
-<br/>
-  <h2 align="center">⚡ Current Stats ⚡</h2>
-<br>
-<div align=center>
+---
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=Relacosm&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-<div align=center>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Relacosm&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Relacosm&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-  <br/>
-
-<br/><br>
-
+---
 
 ### 🛠️ Tools & Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -33,18 +29,19 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-### LeetCode Badges
+---
 
-![LeetCode Achievements](https://github.com/Relacosm/Relacosm/blob/main/2024-50.gif)
+### 🏅 Achievements & Badges
+#### Hackathons
+- **2× Hackathon Winner** 🏆🏆
 
-![LeetCode Achievements](https://github.com/Relacosm/Relacosm/blob/main/2024-09.gif)
+#### LeetCode Badges
+![LeetCode Achievements](https://github.com/Relacosm/Relacosm/blob/main/2024-50.gif)  
+![LeetCode Achievements](https://github.com/Relacosm/Relacosm/blob/main/2024-09.gif)  
 
-### Other Badges
-
+#### Certifications & Accomplishments
 <img width="250" src="https://github.com/Relacosm/Relacosm/blob/main/github-foundations.png" />
 <img width="250" src="https://github.com/Relacosm/Relacosm/blob/main/networking-basics.png" />
 <img width="250" src="https://github.com/Relacosm/Relacosm/blob/main/statement-of-accomplishment.png" />
 <img width="250" src="https://github.com/Relacosm/Relacosm/blob/main/statement-of-accomplishment%20(1).png" />
 <img width="250" src="https://github.com/Relacosm/Relacosm/blob/main/statement-of-accomplishment%20(2).png" />
-
-
