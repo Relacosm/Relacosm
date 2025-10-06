@@ -90,7 +90,6 @@ const relacosm = {
 </div>
 
 <div align="center">
-  <img src="https://github.com/Relacosm/Relacosm/blob/main/statement-of-accomplishment.png" alt="Achievement 1" width="200"/>
   <img src="https://github.com/Relacosm/Relacosm/blob/main/statement-of-accomplishment%20(1).png" alt="Achievement 2" width="200"/>
   <img src="https://github.com/Relacosm/Relacosm/blob/main/statement-of-accomplishment%20(2).png" alt="Achievement 3" width="200"/>
 </div>
