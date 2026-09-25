@@ -15,7 +15,7 @@ const relacosm = {
     achievements: ["2x Hackathon Winner 🏆"],
     collaboration: "Always open to exciting ML & AI projects!",
     contact: "relacosm@gmail.com",
-    website: "relacosm.tech"
+    website: "relacosm.com"
 };
 ```
 
@@ -112,7 +112,7 @@ const relacosm = {
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-relacosm.tech-blue?style=for-the-badge&logo=google-chrome)](https://relacosm.tech)
+[![Website](https://img.shields.io/badge/Website-relacosm.com-blue?style=for-the-badge&logo=google-chrome)](https://relacosm.com)
 [![Email](https://img.shields.io/badge/Email-relacosm@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:relacosm@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Relacosm-black?style=for-the-badge&logo=github)](https://github.com/Relacosm)
 
