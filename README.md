@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7C4DFF,100:EF5A1C&text=Harsh%20Raj&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=full%20stack%20%C2%B7%20ai%20engineer&descAlignY=60&descSize=18" width="100%" alt="Harsh Raj" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7C4DFF,100:EF5A1C&text=Harsh%20Raj&fontColor=FFFFFF&fontSize=60&fontAlignY=30&desc=full%20stack%20%C2%B7%20ai%20engineer&descAlignY=52&descSize=18" width="100%" alt="Harsh Raj" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF5A1C&center=true&vCenter=true&width=620&lines=I+like+building+things+that+outlive+the+demo.;AI+Engineer+Intern+%40+Compucom;Agentic+LLM+pipelines+%E2%86%92+production;2x+hackathon+winner+%F0%9F%8F%86" alt="Typing intro" />
 
@@ -21,17 +21,6 @@ My products have real, active users in several countries, including AI agents, a
 - 🛠️ **Now:** AI Engineer Intern @ [Compucom](https://www.compucom.com), building and shipping AI features on a distributed international team
 - 🎯 **Looking for:** founding-engineer and AI/ML roles
 - 🏆 **Wins:** 1st place, DevClash 2025 · 2nd runner-up, TechNavinya 2025
-
-## 🚀 Selected work
-
-| | Project | What it does |
-|:-:|:--|:--|
-| 🧠 | [**Arlo**](https://arlo.relacosm.com) | An autonomous digital being with memory, reflection, and curiosity that keeps evolving on its own |
-| ⚔️ | [**AI Hunger Games**](https://ai-hunger-games.relacosm.com) | AI personalities debate, ally, betray, and vote, driven by LLM reasoning |
-| 🛡️ | [**ClearTerms**](https://chromewebstore.google.com/detail/clearterms-tc-summarizer/cpclagdammannddponcidehlmkplnjke) | A published Chrome extension that decodes T&Cs and flags hidden risks |
-| 🚗 | [**theLine**](https://theline.relacosm.com) | A self-driving car simulation that learns with neural networks and genetic algorithms |
-| 🔀 | [**FlowStruct**](https://flowstruct.relacosm.com) | Turns source code into interactive flowcharts in Python, JS, Java, and C++ |
-| ⛓️ | **Zameen** | A blockchain land registry on Ethereum, 🥇 winner of DevClash 2025 |
 
 ## 🧰 Tech stack
 
