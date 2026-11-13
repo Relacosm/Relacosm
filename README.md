@@ -53,17 +53,17 @@ My products have real, active users in several countries, including AI agents, a
 ## 🏅 Badges & certifications
 
 <div align="center">
-  <img src="https://github.com/Relacosm/Relacosm/raw/main/2024-50.gif" alt="LeetCode 50 Days Badge" width="120" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Relacosm/Relacosm/raw/main/2024-09.gif" alt="LeetCode September Badge" width="120" />
-  <br/><br/><br/>
-  <img src="https://github.com/Relacosm/Relacosm/raw/main/github-foundations.png" alt="GitHub Foundations" width="190" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Relacosm/Relacosm/raw/main/networking-basics.png" alt="Networking Basics" width="190" />
+  <img src="https://github.com/Relacosm/Relacosm/raw/main/2024-50.gif" alt="LeetCode 50 Days Badge" width="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Relacosm/Relacosm/raw/main/2024-09.gif" alt="LeetCode September Badge" width="100" />
   <br/><br/>
-  <img src="https://github.com/Relacosm/Relacosm/raw/main/statement-of-accomplishment%20(1).png" alt="Supervised Learning with scikit-learn" width="210" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Relacosm/Relacosm/raw/main/statement-of-accomplishment%20(2).png" alt="Natural Language Processing in Python" width="210" />
+  <img src="https://github.com/Relacosm/Relacosm/raw/main/github-foundations.png" alt="GitHub Foundations" width="145" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Relacosm/Relacosm/raw/main/networking-basics.png" alt="Networking Basics" width="145" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Relacosm/Relacosm/raw/main/statement-of-accomplishment%20(1).png" alt="Supervised Learning with scikit-learn" width="145" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Relacosm/Relacosm/raw/main/statement-of-accomplishment%20(2).png" alt="Natural Language Processing in Python" width="145" />
 </div>
 
 <br/>
