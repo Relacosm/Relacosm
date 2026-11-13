@@ -28,12 +28,36 @@ My products have real, active users in several countries, including AI agents, a
 
 <table>
   <tr>
-    <td align="center" width="50%"><b>Languages</b><br/><br/><img src="https://skillicons.dev/icons?i=python,ts,js,java,solidity&theme=dark" alt="Languages" /></td>
-    <td align="center" width="50%"><b>Frameworks</b><br/><br/><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask&theme=dark" alt="Frameworks" /></td>
+    <td align="center" width="50%">
+      <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br/><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python,ts,js,java,solidity&theme=dark" alt="Languages" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Frameworks</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br/><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask&theme=dark" alt="Frameworks" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <br/><br/>
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>Databases</b><br/><br/><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,redis&theme=dark" alt="Databases" /></td>
-    <td align="center"><b>Cloud & DevOps</b><br/><br/><img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,vercel&theme=dark" alt="Cloud and DevOps" /></td>
+    <td align="center" width="50%">
+      <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Databases</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br/><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,redis&theme=dark" alt="Databases" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Cloud &amp; DevOps</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br/><br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,vercel&theme=dark" alt="Cloud and DevOps" />&nbsp;&nbsp;&nbsp;&nbsp;
+      <br/><br/>
+    </td>
   </tr>
 </table>
 
