@@ -42,7 +42,7 @@ My products have real, active users in several countries, including AI agents, a
 ## 📊 GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Relacosm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFCB2E&icon_color=7C4DFF&text_color=E6EDF3&ring_color=EF5A1C&border_radius=12" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Relacosm&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFCB2E&icon_color=7C4DFF&text_color=E6EDF3&ring_color=EF5A1C&border_radius=12" alt="GitHub stats" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Relacosm&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=0D1117&title_color=FFCB2E&text_color=E6EDF3&border_radius=12" alt="Top languages" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=Relacosm&count_private=true&hide_border=true&background=0D1117&ring=7C4DFF&fire=EF5A1C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFCB2E&sideLabels=FFCB2E&dates=8B949E&stroke=30363D&border_radius=12" alt="GitHub streak" />
