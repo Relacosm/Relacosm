@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7C4DFF,100:EF5A1C&text=Harsh%20Raj&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=full%20stack%20%26%20ai%20engineer&descAlignY=60&descSize=18" width="100%" alt="Harsh Raj" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7C4DFF,100:EF5A1C&text=Harsh%20Raj&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=full%20stack%20%C2%B7%20ai%20engineer&descAlignY=60&descSize=18" width="100%" alt="Harsh Raj" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF5A1C&center=true&vCenter=true&width=620&lines=I+like+building+things+that+outlive+the+demo.;AI+Engineer+Intern+%40+Compucom;Agentic+LLM+pipelines+%E2%86%92+production;2x+hackathon+winner+%F0%9F%8F%86" alt="Typing intro" />
 
