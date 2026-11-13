@@ -26,11 +26,16 @@ My products have real, active users in several countries, including AI agents, a
 
 <div align="center">
 
-**Languages & frameworks**<br/>
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,solidity,react,nextjs,nodejs,express,flask&theme=dark" alt="Languages and frameworks" />
-
-**Data, cloud & tools**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,redis,gcp,aws,docker,kubernetes,vercel&theme=dark" alt="Data, cloud and tools" />
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Languages</b><br/><br/><img src="https://skillicons.dev/icons?i=python,ts,js,java,solidity&theme=dark" alt="Languages" /></td>
+    <td align="center" width="50%"><b>Frameworks</b><br/><br/><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask&theme=dark" alt="Frameworks" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b><br/><br/><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,redis&theme=dark" alt="Databases" /></td>
+    <td align="center"><b>Cloud & DevOps</b><br/><br/><img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,vercel&theme=dark" alt="Cloud and DevOps" /></td>
+  </tr>
+</table>
 
 </div>
 
@@ -48,17 +53,17 @@ My products have real, active users in several countries, including AI agents, a
 ## 🏅 Badges & certifications
 
 <div align="center">
-  <img src="https://github.com/Relacosm/Relacosm/raw/main/2024-50.gif" alt="LeetCode 50 Days Badge" width="90" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/Relacosm/Relacosm/raw/main/2024-09.gif" alt="LeetCode September Badge" width="90" />
+  <img src="https://github.com/Relacosm/Relacosm/raw/main/2024-50.gif" alt="LeetCode 50 Days Badge" width="120" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Relacosm/Relacosm/raw/main/2024-09.gif" alt="LeetCode September Badge" width="120" />
+  <br/><br/><br/>
+  <img src="https://github.com/Relacosm/Relacosm/raw/main/github-foundations.png" alt="GitHub Foundations" width="190" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Relacosm/Relacosm/raw/main/networking-basics.png" alt="Networking Basics" width="190" />
   <br/><br/>
-  <img src="https://github.com/Relacosm/Relacosm/raw/main/github-foundations.png" alt="GitHub Foundations" width="130" />
-  &nbsp;
-  <img src="https://github.com/Relacosm/Relacosm/raw/main/networking-basics.png" alt="Networking Basics" width="130" />
-  &nbsp;
-  <img src="https://github.com/Relacosm/Relacosm/raw/main/statement-of-accomplishment%20(1).png" alt="Statement of Accomplishment" width="130" />
-  &nbsp;
-  <img src="https://github.com/Relacosm/Relacosm/raw/main/statement-of-accomplishment%20(2).png" alt="Statement of Accomplishment" width="130" />
+  <img src="https://github.com/Relacosm/Relacosm/raw/main/statement-of-accomplishment%20(1).png" alt="Supervised Learning with scikit-learn" width="210" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Relacosm/Relacosm/raw/main/statement-of-accomplishment%20(2).png" alt="Natural Language Processing in Python" width="210" />
 </div>
 
 <br/>
